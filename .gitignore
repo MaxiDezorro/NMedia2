@@ -46,3 +46,7 @@ captures/
 
 ### Gradle ###
 !gradle/wrapper/gradle-wrapper.jar
+
+# Файлы конфигурации Google Services
+/google-services.json
+app/google-services.json

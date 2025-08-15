@@ -1,1 +1,5 @@
 /build
+
+# Файлы конфигурации Google Services
+/google-services.json
+app/google-services.json
